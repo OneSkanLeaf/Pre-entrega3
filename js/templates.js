@@ -1,4 +1,3 @@
-//TEMPLATES PARA ARMAR ESTRUCTURAS HTML CON JAVASCRIPT
 const retornoCard = (producto) => {
   return `<div class="card">
                 <div class="card-image">${producto.imagen}</div>
